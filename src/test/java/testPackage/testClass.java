@@ -13,6 +13,13 @@ public class testClass {
 		
 		driver.get("https://www.google.co.in/");
 		
+		driver.getCurrentUrl();
+		
+		driver.getTitle();
+		
+		
+		
+		
 		driver.close();
 		
 		
