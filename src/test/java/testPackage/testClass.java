@@ -18,6 +18,9 @@ public class testClass {
 		driver.getTitle();
 		
 		
+		System.out.println("actions done");
+		
+		driver.getPageSource();
 		
 		
 		driver.close();
